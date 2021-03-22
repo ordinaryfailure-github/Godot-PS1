@@ -11,6 +11,7 @@
 This project is just for people who are having a hard time setting up an environment for ps1 aesthetic game development.
 Current resolution is set to 320x240 (Aspect ratio 4:3) and the FPS is capped at 24
 
-if anyone experiences any problems at all please contact me on discord (name + tag you shall find here: https://ordinaryfailure-github.github.io/)
+if anyone experiences any problems at all, 
+please contact me on discord (name + tag you shall find here: https://ordinaryfailure-github.github.io/)
 
 ## THIS PROJECT MAKES USE OF GLES3!
