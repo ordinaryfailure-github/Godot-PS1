@@ -8,7 +8,7 @@
 - https://www.models-resource.com/nintendo_64/legendofzeldaocarinaoftime/model/562/
 
 ### Other:
-This project is just for people who are having a hard time setting up an environment for ps1 aesthetic game development.
+This project is just for people who are having a hard time setting up an environment for ps1 aesthetic game development.  
 Current resolution is set to 320x240 (Aspect ratio 4:3) and the FPS is capped at 24
 
 if anyone experiences any problems at all,  
